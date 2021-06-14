@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Devansh Chakrvarti**
+- 👋 Hi, I’m **Devansh Chakravarti**
 - 👀 I’m interested in Frontend Development and UI Designing
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ...
